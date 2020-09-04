@@ -1,0 +1,2 @@
+# Volumetric_Drag_Coefficient
+In this example we have used data from PHD thesis, “Multi-Objective Multidisciplinary Design Optimization of High Altitude Airships” by Mohammad Irfan Alam and Prof. Rajkumar Pant. Here, m is the Point of maximum diameter r0 is Nose radius r1 is the tail radius Cp is the prismatic coefficient  f is the fineness ratio L is the length of envelope Cdv is Volumetric Drag Coefficient And v is the volume of envelope The low re no is 3.01 x 106 L is the constant and  for high re i.e. 37.6 x 106 V is constant and the result we got is as follow.
